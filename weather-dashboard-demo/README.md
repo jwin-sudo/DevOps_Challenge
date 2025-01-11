@@ -42,8 +42,8 @@ weather-dashboard/
 
 Setup Instructions
 Clone the Repository:
-git clone https://github.com/ShaeInTheCloud/30days-weather-dashboard.git
-cd 30days-weather-dashboard
+git clone git@github.com:jwin-sudo/DevOps_Challenge.git
+cd weather-dashboard-demo
 
 Install Dependencies:
 pip install -r requirements.txt
