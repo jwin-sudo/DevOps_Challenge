@@ -34,7 +34,7 @@ sports-api-management/
 Setup Instructions
 
 Clone the Repository
-git clone https://github.com/ifeanyiro9/containerized-sports-api.git  
+git clone git@github.com:jwin-sudo/DevOps_Challenge.git 
 cd containerized-sports-api  
 
 Create ECR Repository
